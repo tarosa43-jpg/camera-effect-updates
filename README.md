@@ -1,5 +1,6 @@
 # Filteria
 
+⚠このアプリはAIを使用して制作しています。
 Filteria は、Webカメラ映像にエフェクトを加え、Discord・Zoom・OBSなどで使える仮想カメラとして出力する Windows 用アプリです。
 
 **OBSは不要です。** 同梱の `CameraEffect Virtual Camera` を使うと、Filteria の映像を他のアプリのカメラとして選べます。
